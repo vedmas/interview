@@ -1,0 +1,2 @@
+1. class Lorry extends Car implements Moveable, Stopable
+2. Класс Lorry должен реализовывать абстрактный метод класса Car
